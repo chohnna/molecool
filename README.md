@@ -9,8 +9,7 @@ A Python package for analyzing and visualizing xyz files.
 
 ### Copyright
 
-Copyright (c) 2023, molssi_team
-
+Copyright (c) 2023, Hanna Cho
 
 #### Acknowledgements
  
